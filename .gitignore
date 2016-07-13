@@ -1,0 +1,6 @@
+*.cia
+*.exe
+output/
+tools/extcontents
+tools/tmpdir/
+
